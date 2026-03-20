@@ -1,0 +1,56 @@
+﻿Tag,Summary,Result
+Social and Community,"What are the effects of students meeting new friends at an event on their chances of completing an event, and 2.5mo outcomes? Does it vary by number of friends, experience level of the student, and/or experience level of the friend?","Students who said they made a friend at CodeDay about 15% more likely to complete the event vs those who did not. There was a similar effect on long-term outcomes, but this is probably better attributed to the fact that the student completed the event. The number of friends was not important.
+
+New learners who made friends who were more experienced were about 10% more likely to report continuing to code 2.5mo later, vs those who made friends who were also new learners."
+Social and Community,"What are the effects of having a conversation with students during check-in on the willingness of that student to ask for help from mentors, and the chance of that student meeting new friends at the event? What is the optimal length of the conversation?","At some events where staff greeted students at the door, staff members reported more interactions with students (18% more of the event's participants), and more students reported meeting a friend (5% more vs events of similar size).
+
+Some events did not show this effect, which may suggest it was not actually done or not done in a way that made students more comfortable. Overall we think this is worth encouraging but it's difficult to control."
+Social and Community,"What are the effects of icebreakers on the willingness of students to ask for help from mentors, and the chance a student will meet new friends at the event? Effects of different types of icebreakers.","At events which hosted icebreakers, students were 14% more likely to say they met a new friend at an event, and staff reported meeting 10% more of the event's participants.
+
+We could not find a difference between the icebreakers we tried (group rock-paper-scissors, random group pitches, random group two-truths-and-a-lie, random group unique-and-shared)."
+Social and Community,What effect does the layout of a venue (e.g. breaking things into conference rooms) have on the chances of a student to make new friends at an event? What is the ideal number of students to have in a room?,"CodeDay has been held in many different venues with rooms of different sizes.
+
+The number of students who reported making a friend increases as the number of people in one room increases, up until about 100 people in a room. Having 200+ people in one room is about as bad as having all teams in their own break-out rooms.
+
+The best configuration - 100 people per large room - had 12% more students reporting having made a friend over the worst configuration - team-specific break-out rooms or very large rooms."
+Mentor/Staff Behaviors,Which behaviors indicate stress in students who are learning to code? What is the optimal amount of time to wait before intervening when students display signs of stress?," (Numbers TK)"
+Mentor/Staff Behaviors,"What are the effects of not encouraging, encouraging, or requiring breaks for students (by skill level) on completion and 2.5mo outcomes?"," (Numbers TK)"
+Mentor/Staff Behaviors,What are the effects of breaks which require physical activity vs non-physical breaks on completion and 2.5mo outcomes?," (Numbers TK)"
+Mentor/Staff Behaviors,What is the ideal interval for breaks by skill level?," (Numbers TK)"
+Mentor/Staff Behaviors,"What are the effects of mentors using a ""pair programming"" vs ""rubber duck debugging"" style of mentoring on new learners on completion and 2.5mo outcomes?"," (Numbers TK)"
+Mentor/Staff Behaviors,What are the effects of introducing task/project management methodology to new learners on completion and 2.5mo outcomes?," (Numbers TK)"
+Mentor/Staff Behaviors,"What is the ideal task/project management check-in schedule for new learners, in terms of mentor satisfaction and completion?"," (Numbers TK)"
+Content,"Many experiments relating to which programming language and/or framework is best, including: Construct 2/3, Scratch, Python, Pygame, PICO-8, Unity, Gamemaker, Lua-based game mods, HTML/CSS/Javascript, Javascript","Construct 2/3 was the best for completion and 2.5mo outcomes for total beginners, at 9%-points better outcomes than Scratch in completion and 2.5mo (but slightly worse than Scratch for students with some prior coding experience). Gamemaker was worse than Construct or Scratch for total beginners and those with some experience.
+
+HTML/CSS/JS had the interesting property of being comparable to Scratch for completion, but near the bottom of the list at 2.5mo follow-up.
+
+All other coding languages we tried were dramatically worse than Construct or Scratch on all metrics by 10-20%-points. PICO-8 was the worst with only 30% of students completing and no one continuing at 2.5mo followup."
+Content,What are the effects of workshop lecture vs do-now length for new learners?,
+Content,"Which ""important"" programming concepts are best taught in a workshop, and which can be self-learned? (As measured by mentor evaluations of student frustration when absent from the workshop.)","For the Construct 2 workshop, reported frustration by post-workshop mentors on a scale of 5 (where 5 is more frustrating to students) when the following content was not taught:
+
+Events: 4.8
+Behaviors (/mixins/traits): 4.7
+Objects and Instances: 3.8
+Instance Properties: 2.7
+Variables: 1.8
+Include: 1.7
+Arrays: 1.4
+Other data structures: 1.1"
+Content,"Effects of removing ""important"" programming concepts which can be easily self-learned on questions asked to mentors, and 2.5mo outcomes, for new learners.","In the best configuration, the number of questions asked to mentors actually decreased, and long-term outcomes were 9% higher."
+Sharing Work,What are the effects of presenting work on long-term outcomes: presentation to a group vs 1-1 presentations on 2.5mo outcomes?,Presentations had a pretty strong effect on long-term outcomes. (Numbers TK)
+Sharing Work,What are the effects of using a slide deck vs an unstructured presentation for new learners on 2.5mo outcomes?,"No significant effect initially, but staff had an easier time convincing people who did not intend to present. (Numbers TK)"
+Sharing Work,What are the effects of the value of prizes on the number of new learners who attend and the number of new learners who complete the event?,Small prizes was best. No prizes was slightly worse for all measures. High value prizes was dramatically worse for total beginners.  (Numbers TK)
+Sharing Work,"What percentage of new learners register for presentations when asked to do so in an announcement, and how many additional students can be convinced by individual interactions with mentors?","About 50% of students who do not register can be convinced to present. The biggest reason given for not presenting is that their project did not achieve all their desired functionality, but typically could be convinced that most of the functionality was enough.  (Numbers TK)"
+Sharing Work,"What are the effects on the number of new learners completing the event when adding open-criteria awards (""judges awards"" or ""special prizes"") vs strictly defining the criteria of awards?","Small effect for total beginners, no other effect.  (Numbers TK)"
+Sharing Work,Is the amount of sleep a student has had correlated with award results? How do different judging systems affect this?,"When judging based on presentations, students who got the most sleep were much more likely to win. The correlation was almost 1 in some events. Lower correlation when judging based on 1-1 demos.  (Numbers TK)"
+Marketing,"Analysis of registration, completion, and 2.5mo outcomes for students who primary identify with different creative fields (artist, musician, and voice actors)."," (Numbers TK)"
+Marketing,"Promoting to new CS learners who primary identify as creative: effects of including details about learning to code, vs exclusively focusing on existing creative interest.",Exclusively focusing on creative interests was quite a bit more effective. Adding one paragraph in a 1-page sheet about learning to code led to a big decrease. Difficult to measure exactly because the event name is CodeDay.  (Numbers TK)
+Marketing,"Promoting to new CS learners who primary identify as creative: do images which specifically show students using creative skills increase the number of students who register? (aka how helpful are pictures to helping students imagine how they could participate in a ""coding"" event, and does that increase the number of students who participate?)",Modest effect.  (Numbers TK)
+Marketing,"Which experiences induce students to share social media photos with their peers, and what is the effect of sharing photos on the number of students interested in attending future CodeDays?","Interesting, noteworthy events (such as the no-hands programming contest) were more effective than staged photo-ops or branded Snapchat filters. Events with noteworthy events had 5-point larger share of word-of-mouth registrations in subsequent events. No difference for staged photo-ops."
+Marketing,"What is the effect of perceived and actual ticket cost on the number of students who register, and the number of students who attend an event? (Broken down by experience level.)","$0 advertised tickets had overall between 40-60% no-show rates depending on the event. The no-shows were unevenly distributed by experience: total beginner no-show rate was between 70-80% while advanced attendees only made up 10% of no-shows.
+
+There is no noticeable difference between when we actually charged $10, vs when we said the tickets were $10 but gave promotion codes to every school."
+Marketing,"What are the effects of general promo codes vs generating unique one-time-use scholarship codes on registrations and no-shows? (aka do generic ""SCHOOLNAME"" scholarship codes carry the same perceived value as individual-use promo codes)",No difference in no-show rates. It would be interesting to explore whether offering unique promo codes increased the number of students who registered.
+Event Format,"What effect does the overnight event have on students completion, 2.5mo outcomes, and NPS?","Overnight CodeDay events were higher on all metrics than one-day or split two-day events. Split two-day events were the worst, but likely attributable to the difficulty in transportation decreasing completion. Satisfaction and NPS were 10-15points higher with overnight.  (Numbers TK)"
+,,
+,,

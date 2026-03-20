@@ -1,0 +1,18 @@
+# Social Media Policy
+
+Web applications that facilitate information sharing and collaboration include web-based communities, social-networking sites, video-sharing sites, wikis, blogs and countless others. Together, these technologies are known as “social media.” As the popularity and integration of social media continues to increase in popularity, a number of new issues and questions are raised about proper use. These Guidelines were created to assist our CodeDay employees and volunteers to effectively and responsibly navigate issues unique to social media.
+
+These Guidelines apply to all CodeDay employees and volunteers who participate in social media or other Internet activity. The Guidelines apply without regard to whether the conduct occurs during working or non-working time. Similarly, the Guidelines apply regardless of whether CodeDay equipment is used.  If, at any time, you are uncertain about how to apply these guidelines or have any question about your participation in social media, you should seek the guidance of [insert name of individual or position title].
+
+Social media is in a state of constant change and CodeDay recognizes that there will likely be events or issues that are not addressed in these Guidelines. Therefore, the responsibility falls to each individual to use good judgment and, when in doubt, to ask for clarification or authorization *before* engaging in any questionable conduct online.
+
+The following Guidelines should be considered when posting or reviewing materials on-line:
+
+1. Information becomes public the moment it is published on the Internet. CodeDay employees and volunteers should be mindful of the public nature of the Internet when engaging in conduct online. Further, employees and volunteers should expect that other CodeDay employees, including senior management, and volunteers will see anything that you post online.
+2. Unless given written consent, you may not represent in any way that you are speaking on behalf of CodeDay. CodeDay has designated the Executive Director/CEO as spokesperson for CodeDay in all media statements to ensure consistent messaging.
+3. All postings on social media must comply with our confidentiality and disclosure of proprietary information policies. Do not upload, post, or share work-related documents or email exchanges. Similarly, preserve the confidentiality of participant information. If you are unsure about the confidential nature of information you are considering posting, consult with your manager or supervisor.
+4. Remember, you are responsible for what you write or present on social media. You can be sued by other employees or any individual that views your social media posts as an invasion of privacy, obscene, defamatory, harassing, libelous, or creating a hostile work environment.
+5. You are encouraged to address any workplace concerns through internal channels rather than social media.
+6. All CodeDay policies that regulate off-duty conduct apply to social media activity including, but not limited to, policies related to illegal harassment, code of conduct, nondiscrimination, and protecting confidential and/or proprietary information.
+
+This policy is not intended to interfere with employees’ right to participate in concerted activity such as communicating with their coworkers regarding their wages, hours, or terms and conditions of employment, or to their right to self-organize or join labor organizations or any other rights protected under National Labor Relations Act.

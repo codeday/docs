@@ -1,0 +1,17 @@
+# Criminal History Record Check Policy
+
+Criminal history record checks will be conducted for all applicants for positions that require substantial direct contact with individuals considered vulnerable by CodeDay. In addition, criminal history record checks will be conducted for applicants for positions that require the delivery of services to vulnerable individuals. Vulnerable individuals include children, dependent adults, and people with disabilities.
+
+Applicants for employment or volunteer service with CodeDay must sign an Authorization Statement thereby permitting the organization to initiate criminal history record checks required by this policy.
+
+# Disqualifying Factors
+
+Individuals are permanently disqualified from holding positions that require substantial contact with any vulnerable individuals if they have a history of any violent or sexually exploitive behavior.
+
+Other than stated above, a conviction for a criminal offense will not automatically disqualify an applicant for a position with CodeDay. Applicants’ criminal history records will be evaluated in the context of the specific position for which the application is submitted and the factors listed below:
+
+- *The recency of, and circumstances surrounding the conduct in question* – Crimes that occurred within the past year or two are deemed to be more reliable indicators of an individual’s qualification status for positions than crimes that occurred several years ago. This is particularly true if the only crimes listed in the record happened several years ago with no recent offenses; however, any convictions for child sexual abuse, rape, or other sexually exploitive offenses constitute an unacceptable level of risk extending throughout an individual’s life.
+- *The age of an individual at the time of the offense* – [insert name of nonprofit] will take into account the age of the applicant at the time an offense was committed.
+- *Societal conditions that may have contributed to the nature of the conduct* – [insert name of nonprofit] will consider the social context in which offenses occurred. For example, in some neighborhoods, becoming a gang member may be due to pressure exerted by the gang or to a perceived threat or harm that not joining a gang would create. While societal conditions will not excuse illegal behavior, the context in which the illegal behavior occurred will be considered.
+- *The probability that an individual will continue the type of behavior in question* – Criminal history records that document a continuing pattern of repeated criminal offenses provide justification to believe that the individual represents a high risk for future criminal conduct. Also, some forms of criminal sexual conduct, such as child molestation, have a high probability of repetition. Individuals with a high risk for continuing criminal behavior will not be assigned to work with vulnerable service recipients.
+- *The individual’s commitment to rehabilitation and to changing the behavior in question* – When an applicant’s criminal history record includes potentially disqualifying offenses, the organization will consider the steps the applicant has taken toward rehabilitation. Words of remorse alone are not sufficient evidence of an individual’s commitment. The organization will look for tangible evidence of the applicant’s desire to lead a law-abiding life, such as progress in rehabilitation programs or making restitution to victims.
