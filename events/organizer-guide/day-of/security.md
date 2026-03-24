@@ -1,0 +1,26 @@
+---
+title: Security
+parent: Day-of
+grand_parent: Organizer Guide
+nav_order: 6
+---
+
+# Security
+
+{: .note }
+Before the event starts, familiarize yourself with the [Code of Conduct](https://codeday.org/conduct). All staff members should be on the lookout for violations. If you see something which you think violates the rules, please tell the Event Manager or Code Evangelist.
+
+CodeDay is "locked down" after kickoff (even if it's not physically locked):
+
+- Any family sticking around for the kickoff should be asked to leave. (Family members may not stay during CodeDay unless they are a background-checked volunteer — no exceptions.)
+- **EVERYONE** in the venue should have a nametag, which indicates they have gone through checkin.
+- A volunteer should always be stationed so that they can see if anyone enters or leaves the venue.
+    - **EVERYONE** leaving the venue should have a "You can leave if you want" orange sunburst wristband:
+
+        ![Wristband.png](../Security/Wristband.png)
+
+    - Check out anyone who leaves on Clear, and check them back in when they return.
+
+[security.pdf](../Security/security.pdf)
+
+[security.pdf](../Security/security%201.pdf)

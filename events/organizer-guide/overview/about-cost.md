@@ -1,0 +1,24 @@
+---
+title: 'Cost & Budget'
+parent: Overview
+grand_parent: Organizer Guide
+nav_order: 2
+---
+# Cost & Budget
+
+Most US CodeDays are about $20 with a $10 early-bird discount available until the week-of the event.
+
+People generally do not pay $20, because (a) most people buy their tickets early, and (b) almost everyone uses a promo code for 20% off or more.
+
+If your country's economy is pretty different from the US, here are some comparisons to help you set ticket price:
+- $10 is about 0.5% of the average US household's income.
+- $10 is a little more than the cost of a "premium" meal at a fast-food restaurant.
+- $10 is about the cost of 3x 1gal (~4L) milk containers.
+{: .highlight }
+
+If you have sufficient sponsorships, you can change the price, but we do not recommend going below $10 for a few reasons:
+
+- You can give out lots of promo codes to get the same effect, but it also helps you track promotion.
+    - In particular you should offer low-income students a promo code called LAPTOP (you have to make it) -- which will automatically offer them a free laptop and free Uber ride.
+- Even if people don't pay $10 because of promo codes, they *feel* like they've paid $10 and are more likely to show up.
+- The cost for food is going to be around $12/participant (not to mention other CodeDay supplies) and whatever money we make from ticket sales (often around $6/person average) helps offset that so you don't need to raise as many sponsorships.
