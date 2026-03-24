@@ -1,12 +1,15 @@
+---
+parent: Operations
+---
 # Creating a New CodeDay Event
 
-<aside>
-💡 **tl;dr:**
-- If this is a totally new city/region, [create a region config in Contentful](Creating%20a%20Region%20City%20Config%20in%20Contentful%20b3b3e5a9984e4425b2fe900541d6848f.md) first.
-- Go to Clear → Groups → [Your season] → Add event
-- Fill out the fields
+{: .note-title }
+> 💡 **tl;dr:**
+>
+> - If this is a totally new city/region, [create a region config in Contentful](Creating%20a%20Region%20City%20Config%20in%20Contentful%20b3b3e5a9984e4425b2fe900541d6848f.md) first.
+> - Go to Clear → Groups → [Your season] → Add event
+> - Fill out the fields
 
-</aside>
 
 Visit the “Event Groups” Clear page with an admin account. (If you don’t have an admin account, ask Lola or Tyler to grant you admin permissions.)
 

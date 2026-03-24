@@ -1,3 +1,6 @@
+---
+parent: Operations
+---
 # Configuring a custom theme
 
 By default, events will pull from Contentful (CodeDay’s CMS) to get information about an events theme. However, sometimes you might want to use a different theme (or no theme at all!)
