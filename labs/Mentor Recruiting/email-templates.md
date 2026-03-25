@@ -1,3 +1,6 @@
+---
+parent: Mentor Recruiting
+---
 # Email Templates
 
 # Outreach to an Individual Developer

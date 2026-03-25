@@ -1,3 +1,6 @@
+---
+parent: For Open Source Maintainers
+---
 # Shaping An Issue
 
 [Examples of Good Issues](Shaping%20An%20Issue/Examples%20of%20Good%20Issues%206e634d7521904c0ca79476bd962a199c.csv)
