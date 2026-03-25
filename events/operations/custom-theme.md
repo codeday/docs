@@ -1,5 +1,9 @@
 ---
+layout: default
+title: Configuring a Custom Theme
 parent: Operations
+grand_parent: Events
+nav_order: 4
 ---
 # Configuring a custom theme
 
@@ -9,12 +13,10 @@ In this case, you can configure this using clear metadata, however there are a f
 
 # For Organizers
 
-<aside>
-💡 All this can be done from the “Edit Advanced Config” page for your Event.
-
-![Untitled](Configuring%20a%20custom%20theme/Untitled.png)
-
-</aside>
+{: .note }
+> All this can be done from the “Edit Advanced Config” page for your Event.
+>
+> ![Untitled](Configuring%20a%20custom%20theme/Untitled.png)
 
 1. For your custom theme to be displayed, make sure that “Disable Theme” is set to an empty string
     
@@ -40,10 +42,8 @@ In this case, you can configure this using clear metadata, however there are a f
     
     Unfortunately, it will not look as pretty as it does in Notion on the actual page.
     
-    <aside>
-    💡 Not sure what to use for theme backgrounds? Check out [Theme images](Picking%20a%20theme%20ae71b0eb266041d9ac345d301b20a25a.md) for tips and tricks!
-    
-    </aside>
+    {: .note }
+    > Not sure what to use for theme backgrounds? Check out [Theme images](picking-a-theme.md) for tips and tricks!
     
 4. If both values are set, your theme should now be displayed on the event page
     
@@ -80,10 +80,8 @@ The most likely cause of this is improper configuration of metadata. It is recom
 
 # For Developers
 
-<aside>
-💡 You don’t need to read this unless you are building software on top of clear’s API that cares about an event’s theme
-
-</aside>
+{: .note }
+> You don’t need to read this unless you are building software on top of clear’s API that cares about an event’s theme
 
 Any query of event theme should ensure to read from the following metadata of a `ClearEvent`
 

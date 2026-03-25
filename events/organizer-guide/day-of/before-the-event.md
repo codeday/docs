@@ -1,0 +1,31 @@
+---
+title: Before the Event
+parent: Day-of
+grand_parent: Organizer Guide
+nav_order: 3
+---
+
+# Before the Event
+
+## Say hello!
+
+Before the event starts, during check-in, at least one volunteer should be walking around, getting to know everyone.
+
+Some questions you can ask:
+
+- Is this your first CodeDay?
+- What made you register for CodeDay?
+- Do you have any ideas for what you want to make?
+
+Your event's Code Evangelist may have specific instructions for additional areas of focus.
+
+You can also work to "break up" large pre-existing groups by introducing them to new attendees, and make solitary attendees feel welcome by giving them a person (you!) to talk to.
+
+If a line forms at checkin, you can talk to people in the line, too.
+
+## Icebreakers
+
+Someone will be asked to run an icebreaker 10-15 minutes before kickoff starts. Some common icebreakers include:
+
+- Group rock-paper-scissors tournament
+- Randomly assign groups, and each group has to come up with the worst (appropriate) pitch idea
