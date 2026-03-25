@@ -36,7 +36,7 @@ After creating the event, enter your availability right away so mentees see a pa
 5. To deselect a block, click and drag over it again.
 6. Your availability saves automatically, there is no submit button.
 
-{: .note-title }
+{: .note }
 > Mark only times you can genuinely commit to every week, not just this week. Leave a 15-30 min buffer before and after other commitments.
 
 ## 3. Sharing the Link with Mentees
@@ -48,7 +48,7 @@ Once your availability is entered, share the unique URL with your team.
 - The poll URL is in your browser's address bar and looks like: `when2meet.com/?XXXXXXXX-XXXXX`
 - Copy the full URL and paste it into your email introduction thread response.
 
-{: .note-title }
+{: .note }
 > Send a friendly follow-up if someone hasn't responded after 24 hours. Remind mentees that When2Meet requires no account, just their name.
 
 ## 4. Reading the Results
@@ -71,7 +71,9 @@ As mentees fill in their availability, the grid updates in real time.
 2. Aim for a slot where **ALL team members overlap** (confirm with the hover tooltip).
 
 {: .note-title }
-> **No full overlap?** If no single slot works for everyone, prioritize times with the most mentees available. Reach out to mentees with blockers to see if any flexibility exists or email your CodeDay Labs point of contact if scheduling cannot be resolved.
+> **No full overlap?**
+>
+> If no single slot works for everyone, prioritize times with the most mentees available. Reach out to mentees with blockers to see if any flexibility exists or email your CodeDay Labs point of contact if scheduling cannot be resolved.
 
 ## 5. Confirming the Meeting Time
 
