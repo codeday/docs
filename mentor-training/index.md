@@ -121,7 +121,7 @@ As always, you can review key dates and deadlines (such as when mentoring starts
 
 ## Scheduling Your First Meeting
 
-Once you’re introduced to your interns, it’s your responsibility to schedule the first meeting. Our software will do its best to suggest common meeting times based on interns’ listed availability, but if none of those times work CodeDay recommends using [https://when2meet.com](https://when2meet.com) for communicating availability.
+Once you’re introduced to your interns, it’s your responsibility to schedule the first meeting. Our software will do its best to suggest common meeting times based on interns’ listed availability, but if none of those times work CodeDay recommends using [https://when2meet.com](https://when2meet.com) for communicating availability (you may optionally read the [When2Meet Guide](./when2meet-guide.md) on how to use it).
 
 CodeDay has no requirements for what meeting platform to use, however we’d recommend a common one (such as Google Meet, Zoom, or a Slack huddle) so it’s closer to what interns can expect in the workplace. 
 
@@ -208,6 +208,8 @@ As you get to know your interns in your first meetings, strive to understand how
 [If Your Interns Finish Early…](./if-finish-early.md)
 
 [CodeDay Labs Mentor Dashboard](./dashboard.md)
+
+[When2Meet Guide](./when2meet-guide.md)
 
 {: .note-title }
 >**Confused? Have a question?**
