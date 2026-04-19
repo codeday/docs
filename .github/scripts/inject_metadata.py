@@ -6,7 +6,6 @@ Source .md files are never modified.
 """
 import json
 import os
-import re
 import subprocess
 import sys
 import urllib.error
