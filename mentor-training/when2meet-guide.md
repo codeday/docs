@@ -57,11 +57,23 @@ As mentees fill in their availability, the grid updates in real time.
 
 ### Understanding the color grid
 
-| Color | Meaning |
-| --- | --- |
-| **Dark green** | Highest overlap - everyone is available |
-| **Light green** | Partial overlap - hover to see who is free |
-| **White** | No overlap at this time |
+<style>
+  .w2m-table { border-collapse: collapse; width: 100%; }
+  .w2m-table th { background-color: #3a3a3a !important; color: #ffffff !important; padding: 0.5em 1em; text-align: left; }
+  .w2m-table td { padding: 0.5em 1em; border: 1px solid #555 !important; }
+  .w2m-dark  td { background-color: #267326 !important; color: #ffffff !important; }
+  .w2m-light td { background-color: #8ec97d !important; color: #0e2e08 !important; }
+  .w2m-white td { background-color: #ffffff !important; color: #000000 !important; }
+</style>
+
+<table class="w2m-table">
+  <thead><tr><th>Color</th><th>Meaning</th></tr></thead>
+  <tbody>
+    <tr class="w2m-dark"><td><strong>Dark green</strong></td><td>Highest overlap — everyone is available</td></tr>
+    <tr class="w2m-light"><td><strong>Light green</strong></td><td>Partial overlap — hover to see who is free</td></tr>
+    <tr class="w2m-white"><td><strong>White</strong></td><td>No overlap at this time</td></tr>
+  </tbody>
+</table>
 
 **Hover over any block to see a list of exactly who is available at that time.**
 
