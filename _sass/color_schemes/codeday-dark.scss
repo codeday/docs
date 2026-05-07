@@ -11,10 +11,12 @@ $nav-child-link-color: $gray-400;
 $sidebar-color: $gray-900;
 $base-button-color: $modes-dark-placeholder;
 $btn-primary-color: $blue-200;
-$code-background-color: $modes-dark-border;
-$code-linenumber-color: $modes-dark-textLight;
+$code-background-color: $gray-900;
+$code-linenumber-color: $gray-400;
 $feedback-color: $gray-800;
-$table-background-color: $modes-dark-placeholder;
+$table-background-color: $gray-700;
 $search-background-color: $modes-dark-placeholder;
 $search-result-preview-color: $modes-dark-textLight;
 $border-color: $modes-dark-border;
+
+@import "./vendor/accessible-pygments/github-dark";
